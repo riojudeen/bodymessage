@@ -1,0 +1,22 @@
+Aplikasi Chat TuwekKantai V1 PHP MySQLi dan Ajax JQuery
+
+LOGIN USER
+email	 : 401xdssh@gmail.com
+password : 401xdssh
+
+email	 : mira@gmail.com
+password : mira
+
+email	 : gisel@gmail.com
+password : gisel
+
+email	 : riko@gmail.com
+password : riko
+
+email	 : anya@gmail.com
+password : anya
+
+email	 : vino@gmail.com
+password : vino
+
+SELANJUTNYA SILAHKAN MENDAFTAR USER BARU
